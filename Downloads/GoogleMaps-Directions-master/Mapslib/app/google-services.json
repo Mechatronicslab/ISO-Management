@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "981832117571",
+    "firebase_url": "https://mapslib-2c0ae.firebaseio.com",
+    "project_id": "mapslib-2c0ae",
+    "storage_bucket": "mapslib-2c0ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981832117571:android:b1edffa174302150",
+        "android_client_info": {
+          "package_name": "com.example.juli_soep.mapslib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981832117571-2c73alfssn4k1sd6e0cofj7l69hvgqg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9em36F8dNDyyUN_tc00yuwl5q7SG9aQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
